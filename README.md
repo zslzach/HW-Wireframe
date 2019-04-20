@@ -1,2 +1,2 @@
 # HW-Wireframe
-Bootcamp homework
+Easier Bootcamp homework
